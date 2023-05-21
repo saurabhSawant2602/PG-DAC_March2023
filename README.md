@@ -1,5 +1,9 @@
 # Cdac-Assignments
 #### CDAC Assignments Mar 2023
-CPOS 
+1.CPOS ✔️
 
-OOPJ 
+2.OOPJ ✔️
+
+3.ADS  (Hackerrank)
+
+4.DBT ✔️
